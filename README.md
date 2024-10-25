@@ -56,7 +56,7 @@ Based on this visualization it can be observed that business is slow towards the
 
 
 ## Dashboard
-All the visualizations are thus combined into a dashboard:      
+All the visualizations are thus combined into the following interactive dashboard:      
 [Airbnb Analysis Dashboard](https://public.tableau.com/app/profile/hridita.basu/viz/AirbnbAnalysis_17298809094880/Dashboard1)
 
 ## Insights
