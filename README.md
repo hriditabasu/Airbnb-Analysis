@@ -75,9 +75,6 @@ The analysis reveals key insights into optimal strategies for maximizing profita
 - **Optimize Occupancy for Low-Competition Listings:** For properties with multiple bedrooms, develop marketing strategies that highlight these unique accommodations. Targeting families or groups, who are likely to seek multi-bedroom options, can help sustain high occupancy and justify premium pricing.
 These recommendations aim to leverage high-demand locations, seasonal trends, and strategic property configurations to maximize revenue and maintain a competitive edge in the Seattle Airbnb market.
 
-## Repository Content
-
-
 ## Future Work
 Derive more valuable insights by analysing the reviews for the properties as well as by conducting analyses based on other attributes like city, property type, etc.
 
