@@ -63,7 +63,23 @@ All the visualizations are thus combined into the following interactive dashboar
 1. Three of the most profitable areas are in Seattle, Washington with zipcodes 98119, 98121 and 98136 respectively.
 2. Business is slow at the beginning of the year therefore it is more profitable to list the property on Airbnb towards the end of the year, especially during the summer and the holidays.
 3. The price per night increases with the increase in the number of bedrooms the property has.
-4. Greater the number of bedrooms, lesser the number of listings. Therefore, reduced competition. 
+4. Greater the number of bedrooms, lesser the number of listings. Therefore, reduced competition.
+
+## Conclusion
+The analysis reveals key insights into optimal strategies for maximizing profitability in the Seattle Airbnb market. The most profitable locations are in Seattle's zip codes 98119, 98121, and 98136, indicating that demand and nightly rates in these areas are strong. Seasonal trends show that business is slower at the start of the year, with a significant rise in occupancy and nightly rates toward the end of the year, particularly during summer and holiday seasons. Additionally, the data highlights a positive relationship between the number of bedrooms and nightly rates: properties with more bedrooms command higher prices. However, listings with multiple bedrooms are less common, suggesting reduced competition for larger properties.
+
+## Recommendations
+- **Focus Listings in Profitable Zip Codes:** Target property acquisitions or optimize listings in Seattle zip codes 98119, 98121, and 98136, where the demand and profitability are highest. This strategy could help capture premium rates and steady occupancy in these high-demand areas.
+- **Seasonal Pricing Strategy:** Emphasize seasonal pricing by listing properties or increasing rates during peak times, such as summer and the holiday season. Adjust rates downward at the beginning of the year to encourage occupancy during traditionally slower periods.
+- **Invest in Larger Properties:** Since properties with more bedrooms attract higher nightly rates and face less competition, consider investing in larger properties. This approach can capitalize on both the high demand for spacious accommodations and the lower number of similar listings, providing a competitive advantage.
+- **Optimize Occupancy for Low-Competition Listings:** For properties with multiple bedrooms, develop marketing strategies that highlight these unique accommodations. Targeting families or groups, who are likely to seek multi-bedroom options, can help sustain high occupancy and justify premium pricing.
+These recommendations aim to leverage high-demand locations, seasonal trends, and strategic property configurations to maximize revenue and maintain a competitive edge in the Seattle Airbnb market.
+
+## Repository Content
+
 
 ## Future Work
 Derive more valuable insights by analysing the reviews for the properties as well as by conducting analyses based on other attributes like city, property type, etc.
+
+## Acknowlegments
+This project was made possible through the support and resources provided by various data sources and community tools. Special thanks to Inside Airbnb for making valuable data on Airbnb listings publicly accessible, which formed the foundation of this analysis as well as Kaggle and Tableau Public.
