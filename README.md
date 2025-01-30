@@ -1,4 +1,4 @@
-# Airbnb-Analysis
+# Airbnb-Property-Optimization-Strategy
 This project showcases a comprehensive analysis of an Airbnb dataset to uncover key business insights and visualise using Tableau.
 
 ## Business Problem
